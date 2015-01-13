@@ -6,22 +6,22 @@ http://getbootstrap.com/customize/?id=a08a0a035a898494bbbe
 
 It is significantly faster than the complete Bootstrap setup and still provides most of the framework's key elements.
 
-The following elements are included:
+No javascript is included (i.e. jQuery can be removed), only the following elements are included:
 
 ## Common CSS
-Print media styles
-Grid system
-Tables
-Forms
-Buttons
-Responsive utilities
+- Print media styles
+- Grid system
+- Tables
+- Forms
+- Buttons
+- Responsive utilities
 
 ## Components
-Glyphicons
-Input groups
-Navs
-Navbar
-Labels
-Alerts
-Responsive embed
-Close icon
+- Glyphicons
+- Input groups
+- Navs
+- Navbar
+- Labels
+- Alerts
+- Responsive embed
+- Close icon
